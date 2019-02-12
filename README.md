@@ -1,4 +1,4 @@
-# Tweaked-s1engine
+# Tweaked-s1engine (Classic server.)
 A fully tweaked s1engine for the classic TERA server.
 
 - FPS S1engine
