@@ -14,6 +14,6 @@ Tick that on and then apply these changes._
 ![Read-Only Example](https://i.imgur.com/d9kfprc.png)
 
 
-All of 'm are tweaked engines. The FPS engines are highly tweaked ones for maximum FPS. I highly recommend using the "FPS S1Engine". If you use this S1Engine and your class is making different sounds than it's supposed to, use the fixed one.
+All of them are tweaked engines. The FPS engines are highly tweaked ones for maximum FPS. I highly recommend using the "FPS S1Engine". Do you do both PvP and PvE and your system ain't too bad, you might want to go for the normal particles one.
 
 If you notice you don't see everything on the floor or what so ever then make sure to use the other s1engine with a higher particle count. Try what you like the most.
