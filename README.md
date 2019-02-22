@@ -13,6 +13,7 @@ Tick that on and then apply these changes._
 
 ![Read-Only Example](https://i.imgur.com/d9kfprc.png)
 
+__EDIT: If you do Lakan's prison, make sure to use the engine with the NORMAL particle count, it will crash your client otherwise. It's only in this dungeon.__
 
 All of them are tweaked engines. The FPS engines are highly tweaked ones for maximum FPS. I highly recommend using the "FPS S1Engine". Do you do both PvP and PvE and your system ain't too bad, you might want to go for the normal particles one.
 
